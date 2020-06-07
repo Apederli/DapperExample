@@ -1,0 +1,13 @@
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.Business.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.Business.pdb
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\obj\Debug\Dapper.Business.csprojAssemblyReference.cache
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\obj\Debug\Dapper.Business.csproj.CoreCompileInputs.cache
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\obj\Debug\Dapper.Business.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\obj\Debug\Dapper.Business.pdb
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.DAL.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.Entity.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.DAL.pdb
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.Entity.pdb
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\bin\Debug\Dapper.xml
+C:\Users\Aydog\source\repos\DapperExample\Dapper.Business\obj\Debug\Dapper.Business.csproj.CopyComplete

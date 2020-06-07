@@ -1,0 +1,9 @@
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\bin\Debug\Dapper.DAL.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\bin\Debug\Dapper.DAL.pdb
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\bin\Debug\Dapper.Entity.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\bin\Debug\Dapper.Entity.pdb
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\obj\Debug\Dapper.DAL.csprojAssemblyReference.cache
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\obj\Debug\Dapper.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\obj\Debug\Dapper.DAL.csproj.CopyComplete
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\obj\Debug\Dapper.DAL.dll
+C:\Users\Aydog\source\repos\DapperExample\Dapper.DAL\obj\Debug\Dapper.DAL.pdb
